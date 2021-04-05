@@ -1,0 +1,14 @@
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csprojAssemblyReference.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialModel.resources
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache

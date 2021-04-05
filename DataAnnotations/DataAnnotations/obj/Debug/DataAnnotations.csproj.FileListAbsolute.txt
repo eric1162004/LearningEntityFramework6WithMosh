@@ -1,0 +1,15 @@
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.pdb
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.dll
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.xml
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csprojAssemblyReference.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.exe
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.InitialModel.resources
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.AddAnnotationsToCourseTable.resources

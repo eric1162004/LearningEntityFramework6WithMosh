@@ -1,0 +1,14 @@
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+D:\.NET Projects\LearningEntityFrameworkWithMosh\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
